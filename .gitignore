@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 环境变量与本地配置
+.env
+*.local
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# 临时与日志
+*.log
+tmp/
