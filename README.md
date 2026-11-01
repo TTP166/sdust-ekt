@@ -58,8 +58,8 @@ python sdust_baoming.py
 
 ### 安卓手机（无电脑）
 
-- **新手推荐**：安装 Pydroid 3，按 [`docs/Pydroid3使用说明.md`](docs/Pydroid3使用说明.md) 图形化操作；
-- **Termux**：参考 [`docs/Termux部署使用说明.md`](docs/Termux部署使用说明.md)。
+- **新手推荐**：安装 Pydroid 3，按 [`Pydroid3使用说明.md`](Pydroid3使用说明.md) 图形化操作；
+- **Termux**：参考 [`Termux部署使用说明.md`](Termux部署使用说明.md)。
 
 ### 交互说明
 
